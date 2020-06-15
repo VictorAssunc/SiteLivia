@@ -1,0 +1,101 @@
+/* body{
+    background-color: white;
+    display: flex;
+} */
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: DodgerBlue;
+}
+  
+.flex-container > div {
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+#center{
+
+    margin: 0.5% 1% 0 1%;
+
+}
+
+#barra{
+    background-color: rgb(183, 229, 255);
+    padding: 0 0 0 0;
+    height: 100%;
+    font-size: 130%;
+}
+
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75px;
+}
+
+#cont{
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+
+#a{
+    
+    text-decoration: none;
+    text-align: center;
+    border-right: solid;
+    border-width: 1px;
+    border-color: black;
+}
+#b{
+    text-decoration: none;
+    text-align: center;
+    border-right: solid;
+    border-width: 1px;
+    border-color: black;
+
+     
+}
+#c{
+    text-decoration: none;
+    text-align: center;
+    border-right: solid;
+    border-width: 1px;
+    border-color: black;
+    
+}
+#d{
+    text-decoration: none;
+    text-align: center;
+    border-width: 1px;
+    border-color: black;
+    
+}
+
+.imagem{
+    margin-top: 5px;
+    border: solid;
+    border-right: none;
+    height: 200px;
+}
+
+.texto{
+    border: solid;
+    margin-top: 5px;
+}
+
+.noticia{
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.container {
+    display: flex;
+}
